@@ -11,6 +11,6 @@ esse é um subsubtitulo
 - Essa é a segunda linha da minha lista
 - Essa é a terceira linha da minha lista
 ---
-+1. essa é uma linha numerada
-+2. essa é uma linha numerada
-+3. essa é uma linha numerada
+1. essa é uma linha numerada
+2. essa é uma linha numerada
+3. essa é uma linha numerada
